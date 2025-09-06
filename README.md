@@ -12,6 +12,8 @@ This is a small Obsidian + Excalidraw automation script/plugin. It helps you cre
 
 ## Demo Workflow
 
+<video src="20250906031544excalidraw - 2025 - Obsidian v1912 2025-09-06 12-35-16_compressed.mp4" controls width="600"></video>
+
 1. Open any `.excalidraw.md` file in Excalidraw view.  
 2. Run the command (via the script).  
 3. A ⮩ marker appears at `(0,0)` linking to the new file.  
