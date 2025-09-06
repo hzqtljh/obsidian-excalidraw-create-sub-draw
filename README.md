@@ -1,4 +1,4 @@
-# Obsidian Excalidraw Linked Canvases
+# Obsidian Excalidraw Create Linked Canvases
 
 This is a small Obsidian + Excalidraw automation script/plugin. It helps you create **linked Excalidraw canvases** with forward and backward navigation.
 
