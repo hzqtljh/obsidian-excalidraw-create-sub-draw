@@ -44,3 +44,5 @@ This makes it easy to create a **chain of linked drawings** (like pages or slide
 MIT License. Feel free to use and adapt.
 
 ---
+
+The plugin was created with ChatGPT-5.
